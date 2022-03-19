@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Chibuzor 
+### Hi there 👋 I'm Chibuzor
 
-
-### 
+### Frontend development enthusiast
+ I'm currently learning Javascript, I work on HTML and CSS projects from [frontendmentors](https://www.frontendmentor.io/home) so i can sharpen my skills .
 
 Connect with me on: <br>
 * [Twitter](https://twitter.com/francisobinneji)
@@ -21,8 +21,8 @@ Connect with me on: <br>
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate on Frontend projects. ...
 - 🤔 I’m looking for help with internship. 
-- 💬 Ask me about Html,CSS and JS.
-- 📫 How to reach me: https://twitter.com/FrancisObinneji/
+- 💬 Ask me about Html,CSS and Javascript.
+- 📫 How to reach me: [Twitter](https://twitter.com/francisobinneji)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Learning to code is fun till you need to fix a bug.
 
