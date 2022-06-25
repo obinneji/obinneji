@@ -27,7 +27,7 @@ I'm a frontend developer passionate about building pixel perfert frontend design
 - 👯 I’m looking to collaborate on Frontend projects. ...
 - 🤔 I’m looking for help with internship. 
 - 💬 Ask me about Html,CSS and Javascript.
-- 📫 How to reach me: [Twitter](https://twitter.com/francisobinneji) and [Linkedin]()
+- 📫 How to reach me: [Twitter](https://twitter.com/francisobinneji) and [Linkedin](https://linkedin.com/in/obinneji/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Learning is easy building projects is !easy.
 
