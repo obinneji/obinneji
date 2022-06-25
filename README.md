@@ -10,15 +10,20 @@ Connect with me on: <br>
 ### Tech stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
+<a href="https://getbootstrap.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap" width="40" height="40"/>
+ </a>
+ ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Learning
 
-![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### More
 
 - 🔭 I’m currently working on Projects from frontendmentors...
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Reactjs.
 - 👯 I’m looking to collaborate on Frontend projects. ...
 - 🤔 I’m looking for help with internship. 
 - 💬 Ask me about Html,CSS and Javascript.
