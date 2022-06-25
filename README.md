@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Chibuzor
 
-### Frontend Developer
- I'm currently learning Javascript, I work on HTML and CSS projects from [frontendmentors](https://www.frontendmentor.io/home) so i can sharpen my skills .
+### Frontend Web Developer
+I'm a frontend developer passionate about building pixel perfert frontend designs,creating reuseable and DRY codes and also building beneficial free apps for everyone. I'm currently Learning ReactJS and building project on React.
 
 Connect with me on: <br>
 * [Twitter](https://twitter.com/francisobinneji)
@@ -22,14 +22,14 @@ Connect with me on: <br>
 
 ### More
 
-- 🔭 I’m currently working on Projects from frontendmentors...
+- 🔭 I’m currently working on Personal project with ReactJS...
 - 🌱 I’m currently learning Reactjs.
 - 👯 I’m looking to collaborate on Frontend projects. ...
 - 🤔 I’m looking for help with internship. 
 - 💬 Ask me about Html,CSS and Javascript.
-- 📫 How to reach me: [Twitter](https://twitter.com/francisobinneji)
+- 📫 How to reach me: [Twitter](https://twitter.com/francisobinneji) and [Linkedin]()
 - 😄 Pronouns: He
-- ⚡ Fun fact: Learning to code is fun till you need to fix a bug.
+- ⚡ Fun fact: Learning is easy building projects is !easy.
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
