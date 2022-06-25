@@ -3,7 +3,7 @@
 ### Frontend Web Developer
 I'm a frontend developer passionate about building pixel perfert frontend designs,creating reuseable and DRY codes and also building beneficial free apps for everyone. I'm currently Learning ReactJS and building project on React.
 
-##Connect with me
+### Connect with me
 * [Twitter](https://twitter.com/francisobinneji)
 * [linkedin](https://linkedin.com/in/chibuzor-francis-obinneji/)
 
