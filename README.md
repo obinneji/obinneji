@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Chibuzor
 
-### Frontend development enthusiast
+### Frontend Developer
  I'm currently learning Javascript, I work on HTML and CSS projects from [frontendmentors](https://www.frontendmentor.io/home) so i can sharpen my skills .
 
 Connect with me on: <br>
