@@ -44,11 +44,11 @@ I'm a frontend developer passionate about building pixel perfert frontend design
 
 ### More
 
-- 🔭 I’m currently working on Personal project with ReactJS...
-- 🌱 I’m currently learning Reactjs.
+- 🔭 I’m currently working on Personal project with NextJS...
+- 🌱 I’m currently learning NodeJs and Express
 - 👯 I’m looking to collaborate on Frontend projects. ...
-- 🤔 I’m looking for help with internship. 
-- 💬 Ask me about Html,CSS and Javascript.
+- 🤔 I’m looking for help with internship and job opportunities. 
+- 💬 Ask me about Html, CSS, Javascript, and React.
 - 📫 How to reach me: [Twitter](https://twitter.com/francisobinneji) and [Linkedin](https://linkedin.com/in/obinneji/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Learning is easy building projects is !easy.
