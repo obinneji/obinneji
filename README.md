@@ -8,7 +8,6 @@ I'm a frontend developer passionate about building pixel perfert frontend design
 * [linkedin](https://linkedin.com/in/chibuzor-francis-obinneji/)
 
 ### Tech stack
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 <p align="left">
  <a href="https://getbootstrap.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap" width="40" height="40"/>
@@ -29,7 +28,7 @@ I'm a frontend developer passionate about building pixel perfert frontend design
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  alt="react" width="40" height="40"/>
  </a>
  <a href="https://tailwindcss.com/" target="_blank">
- <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+ <img style="height:50px" src="https://www.svgrepo.com/show/374118/tailwind.svg"/>
  </a>
 </p>
 
